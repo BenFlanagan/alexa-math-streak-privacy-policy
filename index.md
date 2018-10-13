@@ -1,0 +1,2 @@
+- [Privacy Policy](/alexa-math-streak-web/privacy)
+- [Terms of Use](/alexa-math-streak-web/terms)
