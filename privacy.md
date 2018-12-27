@@ -2,10 +2,10 @@
 
 ## Terms:
 
-- "We" / "Us" - the developer of Math Streak, Benjamin Flanagan
-- "Amazon" / "Alexa" - Amazon Digital Services LLC (with its affiliates)
+- "We" / "Us" - the developer of Math Streak, Benjamin Flanagan.
+- "Amazon" / "Alexa" - Amazon Digital Services LLC (with its affiliates).
 - "The Skill" / "Math Streak" - the Math Streak skill, developed by Us and available on the Alexa store.
-- "You" - the user of The Skill
+- "You" - the user of The Skill.
 
 ## General
 
